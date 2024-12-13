@@ -14,7 +14,7 @@ by Jack OmniXRI, 2024/12/12
 
 **更完整的文章說明可參考 [如何使用 Intel AI PC 及 OpenVINO 實現虛擬主播](https://hackmd.io/@OmniXRI-Jack/Digital-Human)**  
 
-![](digital_human_UI_done.jpg)
+![](20241212_Digital_Human_Fig04.jpg)
 
 **digital_human.ipynb** 本範例整合 Intel OpenVINO 版 MeloTTS 及 Wav2Lip，完成一個文字輸入，語音輸出（女聲自動讀中英混合稿），並配上有人臉影片自動對嘴形，達成一個簡單版虛擬主播。所有操作界面採 Gradio。  
 
