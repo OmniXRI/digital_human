@@ -8,9 +8,9 @@ by Jack OmniXRI, 2024/12/12
 主要檔案說明：  
 * MeloTTS_run.ipynb 本範例為文字生成語音。  
 * wav2lip_run.ipynb 本範例為輸入一個影片和一段聲音，自動生成對嘴影片。  
-* digital_human.ipynb 以上兩個範例都成功運行後才可執行本範例，本範例整合上述兩個範例。  
+* digital_human.ipynb 以上兩個範例都成功執行後才可執行本範例，本範例整合上述兩個範例。  
 * data_audio_sun_5s.wav & data_video_sun_5s.mp4 為 wav2lip_run.ipynb 的測試影音檔案。  
-* 其它 *.jpg 為範例運行前後 Gradio 界面顯示結果。  
+* 其它 *.jpg 為範例執行前後 Gradio 界面顯示結果。  
 
 **更完整的文章說明可參考 [如何使用 Intel AI PC 及 OpenVINO 實現虛擬主播](https://hackmd.io/@OmniXRI-Jack/Digital-Human)**  
 
